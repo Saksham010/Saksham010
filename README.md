@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saksham010
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Machine Learning, Web3 
+- 🌱 I’m currently learning Machine Learning, Web3, Cryptography
 - 💞️ I’m looking to collaborate on Computer vision projects.
 - 📫 How to reach me : sakshamthapa010@gmail.com
 
