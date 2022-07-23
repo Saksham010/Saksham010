@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saksham010
-- 👀 I’m interested in AI
+- 👀 I’m interested in AI,Blockchain,Quantum Computing,Neural Computation
 - 🌱 I’m currently learning Web3, Cryptography
 - 📫 How to reach me : sakshamthapa010@gmail.com
 
