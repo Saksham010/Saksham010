@@ -2,7 +2,9 @@
 - 👀 I’m interested in AI,Blockchain,Quantum Computing,Neural Computation
 - 🌱 I’m currently learning Web3, Cryptography
 - 📫 How to reach me : sakshamthapa010@gmail.com
-![](https://komarev.com/ghpvc/?username=Saksham010&style=flat-square)
+- ![](https://komarev.com/ghpvc/?username=Saksham010&style=flat-square)
+
+- 
 
 
 ### :hammer_and_wrench: Languages and Tools :
