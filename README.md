@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saksham010
 - 👀 I’m interested in AI,Blockchain,Quantum Computing,Neural Computation
-- 🌱 I’m currently learning Web3, Cryptography
+- 🌱 I’m currently learning Web3, Cryptography (ZK/Verifiable Computation)
 - Currently diving deep into Uniswap 
 - Currently building @RentNFT
 - 📫 How to reach me : sakshamthapa010@gmail.com
