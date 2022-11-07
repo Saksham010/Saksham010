@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI,Blockchain,Quantum Computing,Neural Computation
 - 🌱 I’m currently learning Web3, Cryptography (ZK/Verifiable Computation)
 - Currently diving deep into Uniswap 
-- Currently building @RentNFT
+- Currently building @Wraprotocol (Previously RentNFT)
 - 📫 How to reach me : sakshamthapa010@gmail.com
 - ![](https://komarev.com/ghpvc/?username=Saksham010&style=flat-square)
  
