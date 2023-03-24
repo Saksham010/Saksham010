@@ -25,7 +25,8 @@
   <img src="https://github.com/ChainSafe/web3.js/blob/1.x/assets/logo/web3js.svg" title="Web3js" alt="Web3js" width="40" height="40"/>&nbsp;
   <img src="https://trufflesuite.github.io/ganache/assets/img/ganache-logo-dark.svg" title="Ganache" alt="Ganache" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Saksham010/Saksham010/blob/main/assets/hardhat-seeklogo.com.svg" title="Hardhat" alt="Hardhat" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp; 
+   <img src="https://www.cairo-lang.org/docs/_static/logo.png" title="Rust" alt="Rust" width="40" height="40"/>&nbsp; 
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham010&layout=compact)](https://github.com/Saksham010)
