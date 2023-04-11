@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saksham010
 - 👀 I’m interested in AI,Blockchain,Quantum Computing,Computer Human Interaction
 - 🌱 I’m currently learning Web3, Cryptography (ZK/Verifiable Computation)
-- Currently diving deep into Uniswap 
+- Currently diving deep into Uniswap,Curve
 - Currently building @Wraprotocol (Previously RentNFT)
 - 📫 How to reach me : sakshamthapa010@gmail.com
 - Hashnode: https://sakshamthapa.hashnode.dev
@@ -22,8 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" width="40" height="40"/>&nbsp;
    <img src="https://github.com/Saksham010/Saksham010/blob/main/assets/solidity.png" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/ChainSafe/web3.js/blob/1.x/assets/logo/web3js.svg" title="Web3js" alt="Web3js" width="40" height="40"/>&nbsp;
-  <img src="https://trufflesuite.github.io/ganache/assets/img/ganache-logo-dark.svg" title="Ganache" alt="Ganache" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/18492273?s=200&v=4" title="Etherjs" alt="Etherjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Saksham010/Saksham010/blob/main/assets/hardhat-seeklogo.com.svg" title="Hardhat" alt="Hardhat" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp; 
    <img src="https://www.cairo-lang.org/docs/_static/logo.png" title="Cairo" alt="Cairo" width="40" height="40"/>&nbsp; 
