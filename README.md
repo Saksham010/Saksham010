@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saksham010
-- 👀 I’m interested in AI,Blockchain,Quantum Computing,Computer Human Interaction
+- 👀 I’m interested in AI,Blockchain,Quantum Computing
 - 🌱 I’m currently learning Web3, Cryptography (ZK/Verifiable Computation)
 - Currently diving deep into Uniswap,Curve
 - Currently building @Wraprotocol (Previously RentNFT)
