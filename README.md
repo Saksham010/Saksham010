@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Saksham010
-- 👀 I’m interested in AI,Blockchain,Quantum Computing
-- 🌱 I’m currently learning Web3, Cryptography (ZK/Verifiable Computation)
-- Currently diving deep into Uniswap,Curve
-- Currently building @Wraprotocol (Previously RentNFT)
+- Love to learn and build
+- Interested in ZK
 - 📫 How to reach me : sakshamthapa010@gmail.com
 - Hashnode: https://sakshamthapa.hashnode.dev
+- Medium : https://medium.com/@vendettalabsz
 - ![](https://komarev.com/ghpvc/?username=Saksham010&style=flat-square)
  
 
