@@ -1,5 +1,5 @@
 - Love to learn and build
-- Interested in ZK, QC and Consensus
+- Interested in ZK, QC and Blockchain
 - 📫 How to reach me : sakshamthapa010@gmail.com
 - Substack: [substack.com/home](https://substack.com/@autismcaptial)
 - Medium : https://medium.com/@vendettalabsz
