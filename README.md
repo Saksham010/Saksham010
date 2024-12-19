@@ -4,6 +4,7 @@
 - Substack: [substack.com/home](https://substack.com/@autismcaptial)
 - Medium : https://medium.com/@vendettalabsz
 - Website: https://sakshamthapa.com.np
+- Blog : https://ouranostheos.blogspot.com
 - ![](https://komarev.com/ghpvc/?username=Saksham010&style=flat-square)
  
 
